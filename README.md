@@ -1,5 +1,5 @@
 ### Hi there👋 
-### This is YounGyeom🤟 
+### This is YounGyeom.
 ### I'm a front-end developer with a keen eye 👀💕
 
 <!--
