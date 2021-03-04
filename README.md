@@ -1,7 +1,6 @@
 ### Hi there👋 
 ### This is YounGyeom.
 ### I'm a front-end developer with a keen eye 👀💖 
-### Skills
 <span>
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
