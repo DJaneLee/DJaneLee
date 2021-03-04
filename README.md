@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Javascript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-9cf?style=flat-square&logo=React&logoColor=white"/>
-</span>
+</span>.
 <!--
 **DJaneLee/DJaneLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
