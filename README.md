@@ -1,6 +1,7 @@
 ### Hi there👋 
 ### This is YounGyeom.
-### I'm a front-end developer with a keen eye 👀💖 
+### A front-end developer with a keen eye 👀💖 
+### A person that is passionate about coding, loves working with React and creating great user experiences.
 ### Also I'm with
 <span>
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/>
