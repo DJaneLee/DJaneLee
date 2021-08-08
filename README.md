@@ -1,4 +1,4 @@
-### Hi there👋 
+
 ### This is YounGyeom.
 ### A front-end developer with a keen eye 👀💖 
 ### A person that is passionate about coding, loves working with React and creating great user experiences.
